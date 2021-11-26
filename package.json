@@ -1,0 +1,14 @@
+{
+  "name": "sammit",
+  "version": "0.0.0",
+  "description": "server for asp.net project",
+  "main": "index.js",
+  "keywords": [],
+  "author": "nikita aognev",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
